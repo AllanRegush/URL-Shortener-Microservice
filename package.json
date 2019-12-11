@@ -1,0 +1,31 @@
+{
+  "name": "url-shortener-microservice",
+  "version": "1.0.0",
+  "description": "FCC URL Shortener Microservice",
+  "main": "server.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllanRegush/URL-Shortener-Microservice.git"
+  },
+  "author": "Allan Regush",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AllanRegush/URL-Shortener-Microservice/issues"
+  },
+  "homepage": "https://github.com/AllanRegush/URL-Shortener-Microservice#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "supertest": "^4.0.2"
+  }
+}
