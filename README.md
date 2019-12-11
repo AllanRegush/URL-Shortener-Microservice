@@ -7,7 +7,7 @@ Clone the repository
 npm run test
 ```
 
-# To Run
+### To Run
 ``` Bash
 npm run start
 ```
